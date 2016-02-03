@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Photo exhibit of Snow Photos from 2015
-datePublished: '2015-12-22T02:45:59.861Z'
-dateModified: '2015-12-22T02:45:46.161Z'
+datePublished: '2016-02-03T00:42:37.065Z'
+dateModified: '2016-02-03T00:42:22.093Z'
 title: 'The Blizzards of Boston, February 2015'
 author: []
+sourcePath: _posts/2015-12-22-the-blizzards-of-boston-february-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-the-blizzards-of-boston-february-2015.md
-published: true
 url: the-blizzards-of-boston-february-2015/index.html
 _type: Article
 
